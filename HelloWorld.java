@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Jenkins Trigger Worked!");
+        System.out.println("Hello EWorld");
     }
 }
